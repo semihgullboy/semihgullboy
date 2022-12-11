@@ -3,7 +3,7 @@
 I'm Semih. I am 21 years old. I am studying software engineering at Celal Bayar University. 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=4700&pause=800&center=true&vCenter=true&width=440&lines=I+am+semih+g%C3%BClboy;Software+Engineering+Student;I+am+21+years+old;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=4700&pause=800&center=true&vCenter=true&width=440&lines=I+am+Semih+G%C3%BClboy;Software+Engineering+Student;I+am+21+years+old;)](https://git.io/typing-svg)
 
 <br>
 
