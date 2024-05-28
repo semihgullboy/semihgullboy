@@ -2,7 +2,7 @@
 
 ### Hi there, I'm Semih. :blush:
 
-#### I am studying software engineering at Celal Bayar University. I'm working on Web development. I am sharing my projects here. I usually use .Net for backend projects.
+#### I am studying software engineering at Celal Bayar University.I am sharing my projects here.
 
 <br />
 <br />
@@ -17,6 +17,7 @@
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width="25" height="25" />
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="25" height="25" />
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="25" height="25" />
+<img align="left" src="https://avatars.githubusercontent.com/u/426196?s=200&v=4" width="25" height="25" />
 
 <br />
 
