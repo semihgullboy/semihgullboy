@@ -1,6 +1,8 @@
-<img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=ecf05e47qpupvgkwksk1lsif6k3m6eihnmouz07w6i09nbfu&ep=v1_gifs_search&rid=giphy.gif&ct=g" align="right" width="300" height="150">
+<img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=ecf05e47qpupvgkwksk1lsif6k3m6eihnmouz07w6i09nbfu&ep=v1_gifs_search&rid=giphy.gif&ct=g" align="right" width="300" height="200">
 
-### Hi there, I'm Semih. :blush: I am studying software engineering at Celal Bayar University. I'm working on Web development. I am sharing my projects here. I usually use .Net for backend projects.
+### Hi there, I'm Semih. :blush:
+
+#### I am studying software engineering at Celal Bayar University. I'm working on Web development. I am sharing my projects here. I usually use .Net for backend projects.
 
 <br />
 <br />
@@ -22,6 +24,6 @@
 
 <p align="center">
 <a href="mailto:semiihgulboy@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-semiihgulboy@gmail.com-blue?style=flat&logo=gmail"></a>
-<a href="https://www.linkedin.com/in/semih-g%C3%BClboy-607b4b237/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@Semih Gülboy-blue?style=flat&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/semih-g%C3%BClboy-607b4b237/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Semih Gülboy-blue?style=flat&logo=linkedin"></a>
 
 </p>
