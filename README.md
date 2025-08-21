@@ -25,7 +25,7 @@
 
 ###
 
-<p align="left">I'm Semih, a Software Engineer from Turkey.  <br><br>- 🔭 I’m working as a backend developer building scalable Web APIs with .NET  <br>- 📚 I'm currently learning more about frontend development using React and modern full-stack patterns</p>
+<p align="left">I'm Semih, a Software Engineer. <br><br>- 🎓 I graduated from Celal Bayar University with a degree in Software Engineering (GPA: 3.68). <br>-  🔭 I’m working as a backend developer building scalable Web APIs with .NET  <br>- 📚 I'm currently learning more about frontend development using React and modern full-stack patterns</p>
 
 ###
 
